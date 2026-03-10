@@ -1,5 +1,11 @@
 """
 Test suite for the churn_library.py module.
+
+Execution:
+    pytest churn_script_logging_and_tests.py
+
+Author: koneu
+Creation Data: 9/3/2026
 """
 import os
 import logging

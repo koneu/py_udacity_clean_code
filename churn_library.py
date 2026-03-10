@@ -1,6 +1,9 @@
-'''
-A library of functions to predict customer churn.
-'''
+"""
+A library of functions to predict customer churn using credit card customer data.
+
+Author: koneu
+Creation Data: 9/3/2026
+"""
 
 # import libraries
 import os
